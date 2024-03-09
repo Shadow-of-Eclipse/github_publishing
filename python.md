@@ -1,4 +1,4 @@
-[Read Me](readme.md)  |  [Python](python.md)
+[Read Me](Readme.md)  |  [Python](python.md)
 
 <img src="https://github.com/Shadow-of-Eclipse/github_publishing/assets/74702937/90c0eacf-3c2d-4f23-991d-4bf091b699ae" alt="python" style="width: 300px">
 
