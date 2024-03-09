@@ -1,3 +1,9 @@
+[Read Me](readme.md)  |  [Python](python.md)
+
+<img src="https://github.com/Shadow-of-Eclipse/github_publishing/assets/74702937/90c0eacf-3c2d-4f23-991d-4bf091b699ae" alt="python" style="width: 300px">
+
+# Python
+
 Here’s a closer look at some of these common ways Python is used.
 
 # Data analysis and machine learning
