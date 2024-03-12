@@ -1,6 +1,6 @@
 [Readme](./Readme.md)  |  [Python](./python.md)  |  [JavaScript](./JavaScript.md)
 
-<img src="https://github.com/Shadow-of-Eclipse/github_publishing/assets/74702937/2f9a184d-a9b5-40ae-87ca-5644d9e7f250" alt="JavaScript">
+<img src="https://github.com/Shadow-of-Eclipse/github_publishing/assets/74702937/2f9a184d-a9b5-40ae-87ca-5644d9e7f250" alt="JavaScript" width="200px">
 
 # JavaScript
 
