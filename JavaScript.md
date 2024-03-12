@@ -1,3 +1,4 @@
+[Readme](./Readme.md)  |  [Python](./python.md)  |  [JavaScript](./JavaScript.md)
 # JavaScript
 
 ## History
